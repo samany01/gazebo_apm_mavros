@@ -55,7 +55,7 @@ https://github.com/mavlink/mavros/blob/master/mavros/README.md#installation
           or look at http://wiki.ros.org/mavros
           
 ## Show Time
-### open 4 terminals add each add these lines in order and wait to intiated
+### open 4 terminals add each add these lines in order and wait until being intiated
 - first : roslaunch gazbo obstacle_avoidance.launch
 
 - second : sim_vehicle.py -v ArduCopter -f gazebo-iris -I0
