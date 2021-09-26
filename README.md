@@ -28,9 +28,9 @@ https://github.com/mavlink/mavros/blob/master/mavros/README.md#installation
 
 ** ros path 
 
-  export ROS_PACKAGE_PATH=/home/samany/gazbo:$ROS_PACKAGE_PATH
+  export ROS_PACKAGE_PATH=/catkin_ws/src/gazebo_apm_mavros/:$ROS_PACKAGE_PATH
   
-  export ROS_PACKAGE_PATH=/home/samany/catkin_ws/src/mavros/mavros:$ROS_PACKAGE_PATH
+  export ROS_PACKAGE_PATH=/catkin_ws/src/mavros/mavros:$ROS_PACKAGE_PATH
   
 ** gazebo path 
 
