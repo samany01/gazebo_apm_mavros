@@ -1,0 +1,7 @@
+<?xml version='1.0'?>
+
+<launch>
+    <node pkg="laser_values" type="drone_tfmini.py" name="scan_values"   args="udp:127.0.0.1:14551" output="screen">
+        
+    </node>
+</launch>

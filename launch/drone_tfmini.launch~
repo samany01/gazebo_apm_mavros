@@ -1,0 +1,9 @@
+#!
+
+<launch>
+
+    <node pkg="gazbo" type="drone_tfmini_lidar.world" name="tfmini" output="screen">
+        
+    </node>
+</launch>
+
