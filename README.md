@@ -16,7 +16,7 @@ https://github.com/mavlink/mavros/blob/master/mavros/README.md#installation
 ## download reposity 
 1- open catkin_ws/src on terminal
 
-2-
+2- clone my reposity 
 
 3- cd catkin_ws
 
