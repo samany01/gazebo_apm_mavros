@@ -62,3 +62,4 @@ endif()
 install(TARGETS ArduCopterIRLockPlugin DESTINATION ${GAZEBO_PLUGIN_PATH})
 install(TARGETS ArduPilotPlugin DESTINATION ${GAZEBO_PLUGIN_PATH})
 install(TARGETS ArduCopterPlugin DESTINATION ${GAZEBO_PLUGIN_PATH})
+
