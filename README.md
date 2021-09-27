@@ -48,7 +48,7 @@ https://github.com/mavlink/mavros/blob/master/mavros/README.md#installation
 
 9- open scripts file on terminal
 
-10- chmod +x obstacle_avoidance.py # to give it permission to run you will make this for all python modules #  
+10- chmod +x obstacle_avoidance.py             # to give it permission to run you will make this for all python modules #  
 
 11- tip:- open apm.launch file from mavros and change FCU_URL connection to udp like "udp: //: 14550 @ 192.168.1.130@5760"
 
@@ -63,5 +63,12 @@ https://github.com/mavlink/mavros/blob/master/mavros/README.md#installation
 - third : roslaunch mavros  apm.launch
 
 - fourth : rosrun gazbo obstacle_avoidance.p
+
+
+##                                                obstacle_avoidance onepoint lidar simulation
+
+## Screen shot
+![Screenshot 2021-09-26 211112](https://user-images.githubusercontent.com/77525029/134928960-77ba02a6-bdd1-4a8e-936f-2a5d181accfe.png)
+
 ## Video link
 https://www.youtube.com/watch?v=CG5Po6Zi3hM
