@@ -62,7 +62,7 @@ https://github.com/mavlink/mavros/blob/master/mavros/README.md#installation
 
 - third : roslaunch mavros  apm.launch
 
-- fourth : rosrun gazbo obstacle_avoidance.p
+- fourth : rosrun gazbo obstacle_avoidance.py
 
 
 ##                                                obstacle_avoidance onepoint lidar simulation
@@ -72,3 +72,14 @@ https://github.com/mavlink/mavros/blob/master/mavros/README.md#installation
 
 ## Video link
 https://www.youtube.com/watch?v=CG5Po6Zi3hM
+
+# Move_nesw_localy
+- first : roslaunch gazbo grass.launch
+
+- second : sim_vehicle.py -v ArduCopter -f gazebo-iris -I0
+
+- third : roslaunch mavros  apm.launch
+
+- fourth : rosrun gazbo move_nesw_localy.py
+
+## video link
