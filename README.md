@@ -86,4 +86,9 @@ https://www.youtube.com/watch?v=CG5Po6Zi3hM
 https://www.youtube.com/watch?v=wuW9swpovKI
 ##                                                drone obstacle_avoidance 180 degree lidar simulation
 ## Screen shot
+
+
+https://github.com/samany01/gazebo_apm_mavros/assets/77525029/13747f53-ced5-4592-a181-e68232221484
+
+
 ## All the source code you will find it the scripts folder
