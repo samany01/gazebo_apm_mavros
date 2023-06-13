@@ -85,10 +85,20 @@ https://www.youtube.com/watch?v=CG5Po6Zi3hM
 ## Video link
 https://www.youtube.com/watch?v=wuW9swpovKI
 ##                                                drone obstacle_avoidance 180 degree lidar simulation
+### open 4 terminals add each add these lines in order and wait until being intiated
+- first : roslaunch gazbo obstacle_avoidance.launch
+
+- second : sim_vehicle.py -v ArduCopter -f gazebo-iris -I0
+
+- third : roslaunch mavros  apm.launch
+
+- fourth : rosrun gazbo obstacle_avoidance.py
+
 ## Screen shot
 
 
 https://github.com/samany01/gazebo_apm_mavros/assets/77525029/13747f53-ced5-4592-a181-e68232221484
 
-
+## Video link
+https://youtu.be/DflgGeAh_yc
 ## All the source code you will find it the scripts folder
