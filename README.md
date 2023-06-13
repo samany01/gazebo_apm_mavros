@@ -92,7 +92,7 @@ https://www.youtube.com/watch?v=wuW9swpovKI
 
 - third : roslaunch mavros  apm.launch
 
-- fourth : rosrun gazbo obstacle_avoidance.py
+- fourth : rosrun gazbo obs_avoid_180e.py
 
 ## Screen shot
 
